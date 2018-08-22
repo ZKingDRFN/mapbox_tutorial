@@ -1,1 +1,1 @@
-# mapbox_tuturial
+# mapbox_tutorial
